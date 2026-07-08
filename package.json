@@ -14,7 +14,9 @@
     "react-dom": "latest",
     "next-themes": "*",
     "@anthropic-ai/sdk": "*",
-    "@supabase/supabase-js": "*"
+    "@supabase/supabase-js": "*",
+    "clsx": "*",
+    "tailwindcss": "*"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "*",
