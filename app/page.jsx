@@ -1,5 +1,5 @@
-import StatCard from '@/components/StatCard';
-import ClientCard from '@/components/ClientCard';
+import StatCard from '../components/StatCard';
+import ClientCard from '../components/ClientCard';
 
 export default function Home() {
   const clients = [

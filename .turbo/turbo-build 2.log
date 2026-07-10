@@ -1,0 +1,30 @@
+
+> ai-agency-sf-next@0.1.0 build /Users/carlosjacoste/Desktop/Claude/apps/ai-agency-sf-next
+> next build
+
+(node:32576) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///Users/carlosjacoste/Desktop/Claude/apps/ai-agency-sf-next/next.config.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /Users/carlosjacoste/Desktop/Claude/apps/ai-agency-sf-next/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+▲ Next.js 16.2.10 (Turbopack)
+
+  Creating an optimized production build ...
+(node:32576) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///Users/carlosjacoste/Desktop/Claude/apps/ai-agency-sf-next/next.config.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /Users/carlosjacoste/Desktop/Claude/apps/ai-agency-sf-next/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✓ Compiled successfully in 1814ms
+  Running TypeScript ...
+  Finished TypeScript in 65ms ...
+  Collecting page data using 4 workers ...
+  Generating static pages using 4 workers (0/3) ...
+✓ Generating static pages using 4 workers (3/3) in 237ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+└ ○ /_not-found
+
+
+○  (Static)  prerendered as static content
+

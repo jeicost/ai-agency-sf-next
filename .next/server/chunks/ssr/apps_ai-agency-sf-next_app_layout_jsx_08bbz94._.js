@@ -1,0 +1,3 @@
+module.exports=[53524,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"es",suppressHydrationWarning:!0,children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"AI Agency SF",description:"Internal operations portal for Startup Factory"}])},60953,a=>{a.n(a.i(53524))}];
+
+//# sourceMappingURL=apps_ai-agency-sf-next_app_layout_jsx_08bbz94._.js.map
